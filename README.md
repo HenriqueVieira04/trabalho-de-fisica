@@ -122,12 +122,12 @@ $$
 
 
 ## Implementação
-O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas bibliotecas disponibilizaram ferramentas de calculo matemático, além de algoritmos e funções para visualização de sprites e cenários, facilitando o desenvolvimento do jogo.
+O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas bibliotecas disponibilizaram ferramentas de cálculo matemático, além de algoritmos e funções para visualização de sprites e cenários, facilitando o desenvolvimento do jogo.
 ## Como Usar
 
 - Certifique-se de que Python e suas dependências estejam instaladas, de preferência a versão mais atualizada de Python.
 - Instale a biblioteca pygame utilizando-se "pip install pygame". Em geral, as bibliotecas sys e math já vem instaladas com Python.
-- Para executar a simulação, basta utilizar o comando "python chairs.py"
+- Para executar a simulação, basta utilizar o comando "python chairs.py".
 - Para informações específicas de como jogar, apenas clique na opção do menu "Como jogar", e ler as instruções.
 
 ## Informações sobre o projeto
@@ -135,7 +135,7 @@ O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas
 - Esse projeto foi desenvolvido por: 
   - Gabriel Campanelli Iamato (<gabriel.c.iamato@usp.br>)
   - Gabriel Phelippe Prado (<gabriel.phelippe@usp.br>)
-  - Henrique Vireira Lima(<vieira.henrique@usp.br>)
+  - Henrique Vireira Lima (<vieira.henrique@usp.br>)
   - Joao Ricardo de Almeida Lustosa (<joaoricardo.lust@usp.br>)
   - Pedro Augusto Ferraro Paffaro (<pedroafpaffaro@usp.br>)
   
