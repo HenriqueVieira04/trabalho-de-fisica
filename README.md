@@ -7,7 +7,7 @@ Nesse contexto, o nosso experimeto forma uma trajetória plana, podendo ser colo
 ---
 
 #### Definindo o referencial
-  O movimento ocorrerá no plano XY. Assim, os vetores posição, velocidade, aceleração e forças podem ser descritos nos versores \(\hat{i}\) e \(\hat{j}\). Temos:
+  O movimento ocorrerá no plano XY. Assim, os vetores posição, velocidade, aceleração e forças podem ser descritos nos versores \($\hat{i}\$) e \($\hat{j}\$). Temos:
 
 $$
 \vec{r} = x(t) \hat{i} + y(t) \hat{j}
