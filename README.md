@@ -127,4 +127,11 @@ $$
 
 ## Informações sobre o projeto
 
-- Esse projeto foi desenvolvido por: Gabriel Campanelli Iamato (<gabriel.c.iamato@usp.br>) | Gabriel Phelippe Prado (<gabriel.phelippe@usp.br>) | Pedro Augusto Ferraro Paffaro (<pedroafpaffaro@usp.br>) |
+- Esse projeto foi desenvolvido por: 
+  - Gabriel Campanelli Iamato (<gabriel.c.iamato@usp.br>)
+  - Gabriel Phelippe Prado (<gabriel.phelippe@usp.br>)
+  - Henrique Vireira Lima(<vieira.henrique@usp.br>)
+  - Joao Ricardo de Almeida Lustosa (<joaoricardo.lust@usp.br>)
+  - Pedro Augusto Ferraro Paffaro (<pedroafpaffaro@usp.br>)
+  
+- O projeto foi desenvolvido como avaliação da disciplina 7600105 - Física Básica I (2024) da USP de São Carlos,  ministrada pelos professores Krissia de Zawadzki e Esmerindo de Sousa Bernardes.
