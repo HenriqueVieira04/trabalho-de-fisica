@@ -51,10 +51,22 @@ $$
 m \ddot{x(t)} = - b \dot{x(t)}
 $$
 
+No caso especial para $b = 0$
+
+$$
+m \ddot{x(t)} = 0
+$$
+
 EDOS em Y:
 
 $$
 m \ddot{y(t)} = -mg -b\dot{y(t)}
+$$
+
+No caso especial para $b = 0$
+
+$$
+m \ddot{y(t)} = - m g
 $$
 
 ---
@@ -79,3 +91,20 @@ $$
 v_y(t) = - \frac{g}{\alpha} + \big(\frac{\alpha v_{0y} + g}{\alpha}\big) e^{- \alpha t}
 $$
 
+Para o caso em que $b = 0$
+
+$$
+x(t) = x(0) + v_{0x}
+$$
+
+$$
+v_x(t) = v_{0x}
+$$
+
+$$
+y(t) = y(0) + v_{0y} t - \frac{g t^2}{2}
+$$
+
+$$
+v_y(t) = v_{0y} - gt
+$$
