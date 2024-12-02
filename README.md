@@ -3,7 +3,9 @@
 ## Descrição Básica do Projeto
 
 Este projeto é uma simulação em formato de jogo criada a fim de visualizar a trajetória do lançamento oblíquo. De tal forma, optou-se por uma aplicação lúdica e descontraída, utilizando o episódio famoso do "lançamento" de uma cadeira sobre a personalidade política "Pablo Marçal", sob justificativa de que o uso de gamificação na educação aumenta o engajamento e interesse dos usuários sobre o conteúdo técnico apresentado. 
+
 Nessa aplicação, o jogo possui um menu com opções de personalizar o local do jogo, disponíveis como "Terra", "Lua" e "Vênus", de forma a alterar constantes relativas à viscosidade do meio e à gravidade, o que tornam a trajetória do lançamento oblíquo diferente para cada local. Além disso, apresenta uma opção de alterar a dificuldade para "Fácil", "Médio" ou "Difícil", pois a definição de diferentes níveis torna a experiência do usuário mais lúdica.
+
 Como metodologia foram utilizados cálculos matemáticos envolvendo leis de Newton, EDO's e conceitos de trajetória do lançamento oblíquo.
 ## Conceitos de Física e Modelo Matemático:
 ### Lançamento Oblíquo
@@ -118,6 +120,9 @@ $$
 v_y(t) = v_{0y} - gt
 $$
 
+
+## Implementação
+O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas bibliotecas disponibilizaram ferramentas de calculo matemático, além de algoritmos e funções para visualização de sprites e cenários, facilitando o desenvolvimento do jogo.
 ## Como Usar
 
 - Certifique-se de que Python e suas dependências estejam instaladas, de preferência a versão mais atualizada de Python.
