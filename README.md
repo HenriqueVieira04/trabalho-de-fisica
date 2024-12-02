@@ -1,3 +1,10 @@
+# Lançamento Oblíquo
+
+## Descrição Básica do Projeto
+
+Este projeto é uma simulação em formato de jogo criada a fim de visualizar a trajetória do lançamento oblíquo. De tal forma, optou-se por uma aplicação lúdica e descontraída, utilizando o episódio famoso do "lançamento" de uma cadeira sobre a personalidade política "Pablo Marçal", sob justificativa de que o uso de gamificação na educação aumenta o engajamento e interesse dos usuários sobre o conteúdo técnico apresentado. 
+Nessa aplicação, o jogo possui um menu com opções de personalizar o local do jogo, disponíveis como "Terra", "Lua" e "Vênus", de forma a alterar constantes relativas à viscosidade do meio e à gravidade, o que tornam a trajetória do lançamento oblíquo diferente para cada local. Além disso, apresenta uma opção de alterar a dificuldade para "Fácil", "Médio" ou "Difícil", pois a definição de diferentes níveis torna a experiência do usuário mais lúdica.
+Como metodologia foram utilizados cálculos matemáticos envolvendo leis de Newton, EDO's e conceitos de trajetória do lançamento oblíquo.
 ## Conceitos de Física e Modelo Matemático:
 ### Lançamento Oblíquo
 
@@ -102,9 +109,22 @@ v_x(t) = v_{0x}
 $$
 
 $$
+
+
 y(t) = y(0) + v_{0y} t - \frac{g t^2}{2}
 $$
 
 $$
 v_y(t) = v_{0y} - gt
 $$
+
+## Como Usar
+
+- Certifique-se de que Python e suas dependências estejam instaladas, de preferência a versão mais atualizada de Python.
+- Instale a biblioteca pygame utilizando-se "pip install pygame". Em geral, as bibliotecas sys e math já vem instaladas com Python.
+- Para executar a simulação, basta utilizar o comando "python chairs.py"
+- Para informações específicas de como jogar, apenas clique na opção do menu "Como jogar", e ler as instruções.
+
+## Informações sobre o projeto
+
+- Esse projeto foi desenvolvido por: Gabriel Campanelli Iamato (<gabriel.c.iamato@usp.br>) | Gabriel Phelippe Prado (<gabriel.phelippe@usp.br>) | Pedro Augusto Ferraro Paffaro (<pedroafpaffaro@usp.br>) |
