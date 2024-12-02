@@ -127,7 +127,7 @@ O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas
 
 - Certifique-se de que Python e suas dependências estejam instaladas, de preferência a versão mais atualizada de Python.
 - Instale a biblioteca pygame utilizando-se "pip install pygame". Em geral, as bibliotecas sys e math já vem instaladas com Python.
-- Para executar a simulação, basta utilizar o comando "python chairs.py".
+- Para executar a simulação, basta utilizar o comando "python chairs.py" no terminal.
 - Para informações específicas de como jogar, apenas clique na opção do menu "Como jogar", e ler as instruções.
 
 ## Informações sobre o projeto
