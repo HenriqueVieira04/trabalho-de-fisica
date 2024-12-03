@@ -138,3 +138,8 @@ O projeto foi implementado com Python e as bibliotecas pygame, sys e math. Essas
   - Pedro Augusto Ferraro Paffaro (<pedroafpaffaro@usp.br>)
   
 - O projeto foi desenvolvido como avaliação da disciplina 7600105 - Física Básica I (2024) da USP de São Carlos,  ministrada pelos professores Krissia de Zawadzki e Esmerindo de Sousa Bernardes.
+
+# Referências:
+(1) Bernardes, E. de S. (2024). Dinâmica-v2 (Notas de aula). 7600105 - Física Básica I. Universidade de São Paulo, São Carlos.
+(2) Marcolan, J. (2024). GitHub - julhamarcolan/queda_livre. Disponível em: <https://github.com/julhamarcolan/queda_livre>.
+(3) Getting Started - pygame wiki. Disponível em: <https://www.pygame.org/wiki/GettingStarted>.
